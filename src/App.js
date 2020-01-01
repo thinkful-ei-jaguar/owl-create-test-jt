@@ -18,7 +18,7 @@ class App extends Component {
         {store.users.map(list => (
           <List
             key={list.id}
-            users={list.user}
+            users={list.inSession[true]}
             />
         ))}
 

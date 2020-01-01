@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User component renders the UI as expected 1`] = `
+<div
+  className="User"
+>
+  <img
+    alt="user avatar"
+  />
+  <h3>
+    User
+  </h3>
+  <p />
+</div>
+`;
